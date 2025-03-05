@@ -1,8 +1,4 @@
-# <Aneta Młynarczyk>
 ## <Gra 1010!>
-
-### Język Python - Grupa 4
-
 
 ## Opis
 Jest to gra inspirowana klasyczną grą **1010!**, zaimplementowana przy użyciu biblioteki **Pygame**. Gra polega na układaniu bloków na planszy o rozmiarze 8x8. Celem jest wypełnienie pełnych linii i kolumn, aby zdobywać punkty. Gra posiada również system zapisywania najlepszego wyniku.
